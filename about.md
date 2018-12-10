@@ -10,4 +10,6 @@ Since a few years I am member of the board of the [Java User Group Switzerland](
 
 I also enjoy attending many conferences around the world, sharing my knowledge with interested participants through lectures and workshops, learning new things and discussing all kinds of interesting topics. From time to time I publish an article in a professional journal and at the moment I am writing my first book about web development and Kotlin.
 
+As if that weren't enough, I'm also a lecturer at the [TEKO Swiss Technical College](https://www.teko.ch/de). There I teach web engineering to students and supervise diploma theses.
+
 In my spare time I am an enthusiastic cyclist and like not only short trips but also long journeys. Very long journeys. Even several thousand kilometres...
