@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Reboot into the Cloud
-category: chromebook
+categories: chromebook
 tags: macbook chromebook cloud
 ---
 
