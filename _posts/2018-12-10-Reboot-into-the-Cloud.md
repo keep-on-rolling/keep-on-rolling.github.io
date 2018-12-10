@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Reboot into the Cloud
+category: chromebook
+tags: macbook chromebook cloud
 ---
 
 Things change. Some things evolve. Reason enough to think again about some solutions, whether they still fit for me. For example, the computers I use. Do I really need a top-of-the-line MacBook for my work? Like it has been for many years? Or should I rethink my workflows and try out alternative possibilities?
