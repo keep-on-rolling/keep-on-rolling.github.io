@@ -9,6 +9,8 @@ tags: chromebook developer sdk intellij java kotlin
 
 Almost all the applications I need run in some cloud. E-mail program, calendar, chat software, word processor, spreadsheet, presentation program, etc. There are even IDEs in the cloud! But I haven't gotten really warm with them yet. Either they weren't so great from the usability point of view or the payment model didn't meet my expectations. It may cost something, I also use a commercial IDE, but it has to be within an acceptable range. Since I haven't found a cloud IDE that fits my needs, I will continue to work with a local installation of the commercial edition of IntelliJ IDEA Ultimate. That's the idea.
 
+<!--more-->
+
 ## My Chromebook
 
 I want a device that I can use both as a notebook and as a tablet (convertable). Most of the time I will use it as a notebook, so the flexibility compensates for the much higher weight of a convertible. After working with a MacBook with Retina Display for several years, the Chromebook has to offer a correspondingly high screen resolution. Since I want to run the development environment locally, I need a powerful processor and enough memory -- not as much memory as with a conventional notebook, because everything else runs inside the browser. Since I have several power supplies with USB-C output, the new Chromebook should be able to be loaded via USB-C as well. Then I don't have to buy new chargers for on the road or in the office. Of course it should also be as quiet as possible and have a long battery life. A metallic housing is also very important to me, so that it is rigid (I work a lot on the road) and feels high quality.
