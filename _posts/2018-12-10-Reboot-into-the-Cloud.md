@@ -7,8 +7,6 @@ tags: macbook chromebook cloud
 
 Things change. Some things evolve. Reason enough to think again about some solutions, whether they still fit for me. For example, the computers I use. Do I really need a top-of-the-line MacBook for my work? Like it has been for many years? Or should I rethink my workflows and try out alternative possibilities?
 
-<!--more-->
-
 The year 2018 is drawing to a close. A lot has happened in recent years, especially with cloud services. So why am I still doing almost exactly what I did 20 years ago? All files locally on my notebook. An offline-capable e-mail program. A lot of locally installed applications. And updates, updates, updates.
 
 In a few days we will be writing the year 2019. Internet is part of the basic equipment of every household. Not via modem, but at least via DSL, often fiber optic. Even on the road. 4G is available almost everywhere, 5G in the test phase. A few weeks ago I was on the top of the Schilthorn, almost 3'000 m high, and made a video call with a friend without any problems. That's normal for us today.
