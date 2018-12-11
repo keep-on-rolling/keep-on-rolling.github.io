@@ -5,11 +5,7 @@ categories: chromebook
 tags: chromebook developer sdk intellij java kotlin
 ---
 
-## The Idea
-
 Almost all the applications I need run in some cloud. E-mail program, calendar, chat software, word processor, spreadsheet, presentation program, etc. There are even IDEs in the cloud! But I haven't gotten really warm with them yet. Either they weren't so great from the usability point of view or the payment model didn't meet my expectations. It may cost something, I also use a commercial IDE, but it has to be within an acceptable range. Since I haven't found a cloud IDE that fits my needs, I will continue to work with a local installation of the commercial edition of IntelliJ IDEA Ultimate. That's the idea.
-
-<!--more-->
 
 ## My Chromebook
 
