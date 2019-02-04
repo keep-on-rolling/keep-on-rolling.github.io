@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-For over 32 years I have been developing software, the last 20 years in the Java ecosystem and since some time preferably with Kotlin. I am also interested in agile methodologies and currently work as an Agile Coach at [CSS Insurance](https://www.css.ch/) in Switzerland.
+For over 32 years I have been developing software, the last 20 years in the Java ecosystem and since some time preferably with Kotlin. I am also interested in agile methodologies and currently work as a Scrum Master at [CSS Insurance](https://www.css.ch/) in Switzerland.
 
 Since a few years I am member of the board of the [Java User Group Switzerland](https://www.jug.ch/) and the [Kotlin Swiss User Group](https://www.meetup.com/Kotlin-Swiss-User-Group/) and responsible for the organization and execution of lectures in Central Switzerland. In addition, I organise the monthly [Hackergarten](http://hackergarten.net/) in Lucerne and am involved in the programme committee of [BaselOne](https://baselone.ch/) and [Voxxed Days Zurich](https://voxxeddays.com/zurich/).
 
