@@ -13,6 +13,26 @@
     <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
 
     <!-- Created with Jekyll Now - http://github.com/barryclark/jekyll-now -->
+
+    <style>
+      nav .dropdown {
+        position: relative;
+        display: inline-block;
+      }
+
+      nav .dropdown-content {
+        display: none;
+        position: absolute;
+        background-color: #f9f9f9;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        padding: 5px;
+        z-index: 1;
+      }
+
+      nav .dropdown:hover .dropdown-content {
+        display: block;
+      }
+    </style>
   </head>
 
   <body>
@@ -28,7 +48,12 @@
 
           <nav>
             <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="https://github.com/McPringle/abstracts">Abstracts</a>
+            <span class="dropdown">
+              <span>Talks</span>
+              <div class="dropdown-content">
+                <a href="https://github.com/McPringle/abstracts">Abstracts</a>
+              </div>
+            </span>
             <a href="{{ site.baseurl }}/about">About</a>
           </nav>
         </header>
