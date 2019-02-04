@@ -12,4 +12,4 @@ I also enjoy attending many conferences around the world, sharing my knowledge w
 
 As if that weren't enough, I'm also a lecturer at the [TEKO Swiss Technical College](https://www.teko.ch/de). There I teach web engineering to students and supervise diploma theses.
 
-In my spare time I am an enthusiastic cyclist and like not only short trips but also long journeys. Very long journeys. Even several thousand kilometres...
+In my spare time I am an enthusiastic cyclist and I mainly go on day trips, but also on longer bike trips from several days over several weeks to several months. I love my bike!
