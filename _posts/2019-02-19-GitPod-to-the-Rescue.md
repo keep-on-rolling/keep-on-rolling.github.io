@@ -5,7 +5,7 @@ categories: chromebook
 tags: chromebook developer gitpod cloud ide theia vscode
 ---
 
-A few weeks ago I wrote about using a Chromebook as a developer device. This worked quite well with my really fast Chromebook, which is equipped with an Intel Core i5 8th Gen. and 16 MB RAM, with the IDE installed in the Linux emulation and I was able to work wonderfully. Nevertheless I was annoyed that I have to buy a Chromebook with a fast processor and enough RAM only for the software development. Everything else was already running in the cloud, so why not the IDE?
+A few weeks ago I wrote about using a [Chromebook as a Developer Device](Chromebook-as-a-Developer-Device/). This worked quite well with my really fast Chromebook, which is equipped with an Intel Core i5 8th Gen. and 16 MB RAM, with the IDE installed in the Linux emulation and I was able to work wonderfully. Nevertheless I was annoyed that I have to buy a Chromebook with a fast processor and enough RAM only for the software development. Everything else was already running in the cloud, so why not the IDE?
 
 Well, I've tried several cloud IDEs that I found in a Google search. The selection is already remarkable and positively surprised me. Of course, there were also some IDEs that were, to be honest, hardly more than an online editor, but I still take a positive note. I don't want to compare different cloud IDEs at this point, there are already enough website comparing them and they are developing so fast that it doesn't make much sense in my opinion. But I would like to introduce you which I have chosen and how I will move on.
 
