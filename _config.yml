@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name: Marcus Fihlon
+name: Fat Man Cycling
 
 # Short bio or description (displayed in the header)
-description: Software Craftsman
+description: With my Stromer ST2 S on tour…
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars0.githubusercontent.com/u/1254039
@@ -21,12 +21,12 @@ footer-links:
   email: marcus@fihlon.swiss
   facebook:
   flickr:
-  github: McPringle
-  instagram: McPringle
+  github:
+  instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: McPringle
+  twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -34,14 +34,14 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-disqus: mcpringle
+disqus: fatmancycling
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: https://mcpringle.github.io
+url: https://fatmancycling.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
