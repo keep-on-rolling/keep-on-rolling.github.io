@@ -72,5 +72,25 @@
     </div>
 
     {% include analytics.html %}
+
+
+    <script>
+      function openExternalLink(event) {
+        event.preventDefault();
+        event.stopPropagation();
+        window.open(this.href, '_blank');
+      }
+      (function () {
+        let allLinks = document.getElementsByTagName('a');
+        for (i = 0; i < allLinks.length; i++) {
+          let link = allLinks[i];
+          if (link.href.indexOf('https://fatmancycling.tours/') === -1 &&
+                  link.href.indexOf('http://localhost') === -1 &&
+                  link.href.indexOf('mailto:') === -1) {
+            link.addEventListener('click', openExternalLink);
+          }
+        }
+      })();
+    </script>
   </body>
 </html>
