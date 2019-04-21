@@ -10,4 +10,5 @@ When I ride longer tours, I often use the mobile app of [LocaToWeb](https://loca
 
 Over Easter from 19 to 22 April four days from Romanshorn on Lake Constance to Lausanne on Lake Geneva via the national cycle route No. 5, Mittelland Route. (375 km / 233 mi)
 
-[Show current position](https://locatoweb.com/map/single/0716172140)
+[![dada](images/locatoweb.jpg)  
+Show current position](https://locatoweb.com/map/single/0716172140)
