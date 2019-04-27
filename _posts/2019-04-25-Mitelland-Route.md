@@ -109,5 +109,10 @@ I only stay here for a very short time, because it is extremely full and loud. T
 
 Arrived in Lucerne, I fetch something to take with me from the Asians in the train station, so that I can enjoy more than satisfied at home after a shower on the sofa. It was not only a great day but also a great little trip on a very recommendable, much too unknown cycle route.
 
+Update: A German video documentation of this trip is now available on YouTube and Vimeo.
+
+- [Watch on YouTube](https://youtu.be/SreXONIlp5k)
+- [Watch on Vimeo](https://vimeo.com/332857314)
+
 Yours  
 Marcus
