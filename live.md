@@ -8,7 +8,7 @@ When I ride longer tours, I often use the mobile app of [LocaToWeb](https://loca
 
 ## Actual live broadcast event
 
-Currently, there is no live broadcast. The next trip with live broadcasting starts on May 17th and will be linked here. The journey will go from Lucerne via Bern, Geneva, Grenoble, and Avignon to Barcelona and back to Lucerne.
+Currently, there is no live broadcast. The next trip with live broadcasting starts on May 17th and will be linked here. The journey will go from Lucerne via Bern, Geneva, Grenoble, and Avignon to Barcelona and via Marseille, Nice, Monaco, Saint-Tropez, San Remo, Milan and Gotthard Pass back to Lucerne.
 
 <!--
 [![LocaToWeb](images/locatoweb.jpg)  
