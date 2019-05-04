@@ -71,5 +71,5 @@ During the ride, I will have my [live tracking](/live) activated again, where yo
 
 Keep your fingers crossed for me! I really need it...
 
-Yours
+Yours  
 Marcus
