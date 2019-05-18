@@ -71,5 +71,8 @@ During the ride, I will have my [live tracking](/live) activated again, where yo
 
 Keep your fingers crossed for me! I really need it...
 
+- [Read my post on the first day](/Barcelona-2019-Day-1)
+- [Read my post on the second day](/Barcelona-2019-Day-2)
+
 Yours  
 Marcus
