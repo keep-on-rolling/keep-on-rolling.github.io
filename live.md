@@ -8,7 +8,9 @@ When I ride longer tours, I often use the mobile app of [LocaToWeb](https://loca
 
 ## Actual live broadcast event
 
-I am on a new tour! The actual journey will go from Lucerne via Bern, Geneva, Grenoble, and Avignon to Barcelona and via Marseille, Nice, Monaco, Saint-Tropez, San Remo, Milan and Gotthard Pass back to Lucerne. Please click the icon below to get access to my actual position. It will be updated every few seconds when I move and mobile internet access is available. If you want more detailed information about this travel, [please read my article about it](/Barcelona/). Besides the live map, I'll add some articles about my travel to my blog, [please check it out](/).
+Currently, there is no live broadcast. The next trip with live broadcasting starts in mid August 2019 and will be linked here. The journey will follow the old Route 66 from Chicago to Los Angeles and continue to San Francisco.
 
+<!--
 [![LocaToWeb](images/locatoweb.jpg)  
 Show current position](https://locatoweb.com/map/single/0509174878)
+-->
