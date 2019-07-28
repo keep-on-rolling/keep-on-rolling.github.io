@@ -1,7 +1,9 @@
 ---
 layout: page
 title: About
-permalink: /about/
+lang: en
+lang-ref: about
+permalink: /en/about/
 ---
 
 My mother called me Marcus. That was several decades ago. That was at a time when I was still slim. Even then, I had an incredible pleasure to race around on my bike. The name and the joy of cycling have remained...

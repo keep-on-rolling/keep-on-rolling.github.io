@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Mittelland Route Day 1 from Romanshorn to Rümlang
-categories: tour
-tags: tour, mittelland
+lang: en
+lang-ref: mitelland-route-2019-day-1
 ---
 
 Today I have to get up early! Pack up the last things and go to the station. From Lucerne, I take the train to Romanshorn, with a change in Zurich. Departure is at 07:10 a.m. on track 6. The good thing about Lucerne station is that it is a terminus station. So I can get to the train at ground level without having to use stairs, escalators or lifts. The bicycle compartment is almost full, I can just get one of the last free places. On the way to Zurich, which takes only three-quarters of an hour, I have time for a small breakfast.
@@ -35,5 +35,5 @@ Later in the evening, I get a hint about a bicycle shop in Zurich, which is supp
 Yours  
 Marcus
 
-- [Continue reading with day 2](/Mittelland-Route-Day-2)
-- [Watch a German video documentation](/Mittelland-Route-Video)
+- [Continue reading with day 2](/en/tour/2019/04/20/Mittelland-Route-Day-2/)
+- [Watch a German video documentation](/en/tour/2019/04/27/Mittelland-Route-Video/)

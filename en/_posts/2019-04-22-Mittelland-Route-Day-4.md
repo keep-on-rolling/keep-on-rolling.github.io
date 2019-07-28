@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Mittelland Route Day 4 from Estavayer-le-Lac to Lausanne
-categories: tour
-tags: tour, mittelland
+lang: en
+lang-ref: mitelland-route-2019-day-4
 ---
 
 Easter Monday. Fourth and last day of my Easter journey. The breakfast in my hotel was rather sparse. In hotels, I love these little sausages and scrambled eggs. Unfortunately both not there and not my multivitamin juice from which I always drink in the morning. Too bad, otherwise I actually liked it here. Today we only have about 75 km (47 mi) on the program, compared to the last days the shortest stage. Correspondingly relaxed I approach it. Since I was in bed relatively early yesterday, I had a good and early start today. Shortly before eight o'clock, I'm already sitting on my bike and on my way.
@@ -27,4 +27,4 @@ Arrived in Lucerne, I fetch something to take with me from the Asians in the tra
 Yours  
 Marcus
 
-- [Watch a German video documentation](/Mittelland-Route-Video)
+- [Watch a German video documentation](/en/tour/2019/04/27/Mittelland-Route-Video/)

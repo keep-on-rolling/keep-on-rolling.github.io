@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Mittelland Route Day 2 from Rümlang to Solothurn
-categories: tour
-tags: tour, mittelland
+lang: en
+lang-ref: mitelland-route-2019-day-2
 ---
 
 Today I can sleep a little longer and take my time for breakfast. The bike shop doesn't open until 10 o'clock. I set off in time and drive with my damaged rear wheel very slowly and carefully to the shop. First, my joy is great, it is actually open! But the damper follows quickly: I am told that they already have too much to do. I was supposed to come back next week. The shop is empty, I'm the only customer, the work wouldn't take ten minutes. But nothing to do. I should look for other businesses on the Internet. Very unfortunate.
@@ -39,5 +39,5 @@ Altogether it was 134 km (83 mi) today and it took me (without breaks and stops)
 Yours  
 Marcus
 
-- [Continue reading with day 3](/Mittelland-Route-Day-3)
-- [Watch a German video documentation](/Mittelland-Route-Video)
+- [Continue reading with day 3](/en/tour/2019/04/21/Mittelland-Route-Day-3/)
+- [Watch a German video documentation](/en/tour/2019/04/27/Mittelland-Route-Video/)

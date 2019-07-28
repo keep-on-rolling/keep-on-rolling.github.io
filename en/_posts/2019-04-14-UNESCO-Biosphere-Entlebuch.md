@@ -1,8 +1,8 @@
 ---
 layout: post
-title: UNESCO Biosphere Entlebuch, Thun, Interlaken and Brünigpass
-categories: weekend trip
-tags: weekend trip, lake lucerne, entlebuch, unesco, biosphere, lake thun, thun, interlaken, brünigpass
+title: UNESCO Biosphere Entlebuch, Thun, Interlaken and Brunigpass
+lang: en
+lang-ref: unesco-biosphere-entlebuch-2019
 ---
 
 Once a year, all board members of the Java User Group Switzerland meet for an all-day retreat. Each year at a different location in Switzerland. I like to use this opportunity for a nice bicycle tour. This year we met at Lake Thun. From Lucerne, this is a very nice route through the UNESCO Biosphere Entlebuch and with just over 100 km (60 mi) an ideal length for a full day tour. That sounds like a plan!
@@ -46,10 +46,10 @@ Marcus
 
 - Day 1: Friday
   - [Video on Relive](https://www.relive.cc/view/g32931852564)
-  - [Tour on Komoot](https://www.komoot.de/tour/61812422/zoom)
+  - [Tour on Komoot](https://www.komoot.com/tour/61812422/zoom)
 - Day 2: Saturday
   - [Video on Relive](https://www.relive.cc/view/g32980211942)
-  - [Tour on Komoot](https://www.komoot.de/tour/61937380/zoom)
+  - [Tour on Komoot](https://www.komoot.com/tour/61937380/zoom)
 - Day 3: Sunday
   - [Video on Relive](https://www.relive.cc/view/h10004539402)
-  - [Tour on Komoot](https://www.komoot.de/tour/62063593/zoom)
+  - [Tour on Komoot](https://www.komoot.com/tour/62063593/zoom)

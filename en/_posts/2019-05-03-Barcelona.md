@@ -1,8 +1,8 @@
 ---
 layout: post
 title: From Lucerne to Barcelona and back
-categories: tour
-tags: tour, lucerne, barcelona, switzerland, france, spain, monaco, italy
+lang: en
+lang-ref: barcelona-2019
 ---
 
 At the end of May [I am invited as a speaker to a conference in Barcelona](http://www.jbcnconf.com/2019/infoSpeaker.html?ref=034100c2dca6f7a15d06273390c11c6aa73949d3). The third year in a row! But this year I don't want to fly, I want to cover the way there as well as the way back with my bicycle. This will be quite a challenge, because I have a very tight schedule and have to be in Barcelona in time for the conference and back in Lucerne in time for the work. I planned the way there and back differently in order to be able to see as many different regions as possible during the trip. During this tour I will surely reach my limits. Several times. After all it is approx. 2'600 km (1'600 mi) with approx. 21'000 m (69'000 ft) elevation!
@@ -67,13 +67,18 @@ First, it goes, logically, through Spain to the French border. Then I follow the
 
 In total this is 1'432 km (890 mi) with an elevation difference of 12'430 m (40'782 ft) up and 11'990 m (39'337 ft) down. This will be harder than the outward trip! Especially the second half of this route will be extreme...
 
-During the ride, I will have my [live tracking](/live) activated again, where you can view my current position and the photos I took. If I'm not suffering too much, I'll report about the different sections here in my blog and after the trip, I plan to publish a video again - if everything works out with the recordings.
+During the ride, I will have my [live tracking](/en/live) activated again, where you can view my current position and the photos I took. If I'm not suffering too much, I'll report about the different sections here in my blog and after the trip, I plan to publish a video again - if everything works out with the recordings.
 
 Keep your fingers crossed for me! I really need it...
 
-- [Read my post on the first day](/Barcelona-2019-Day-1)
-- [Read my post on the second day](/Barcelona-2019-Day-2)
-- [Read my post on the third day](/Barcelona-2019-Day-3)
+- [Read my post on the first day](/en/tour/2019/05/17/Barcelona-2019-Day-1/)
+- [Read my post on the second day](/en/tour/2019/05/18/Barcelona-2019-Day-2/)
+- [Read my post on the third day](/en/tour/2019/05/19/Barcelona-2019-Day-3/)
+- [Read my post on the fourth day](/en/tour/2019/05/20/Barcelona-2019-Day-4/)
+- [Read my post on the fifth day](/en/tour/2019/05/21/Barcelona-2019-Day-5/)
+- [Read my post on the sixth day](/en/tour/2019/05/22/Barcelona-2019-Day-6/)
+- [Read my post on the seventh day](/en/tour/2019/05/23/Barcelona-2019-Day-7/)
+- [Read my post on the eigth day](/en/tour/2019/05/24/Barcelona-2019-Day-8/)
 
 Yours  
 Marcus

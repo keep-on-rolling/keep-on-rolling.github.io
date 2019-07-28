@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Mittelland Route Day 3 from Solothurn to Estavayer-le-Lac
-categories: tour
-tags: tour, mittelland
+lang: en
+lang-ref: mitelland-route-2019-day-3
 ---
 
 After the exhausting day yesterday I take it a little easier now. I sleep more or less well and then take my time for breakfast. Pretty much at 10 o'clock I am ready for the start and go back on the road. It is Easter Sunday and there is still very little going on. But that changes very quickly. The cycle route goes directly along the Aare again and the great weather on the holiday attracts crowds of people outside. The cycle path gets really full.
@@ -25,5 +25,5 @@ Today it was 95 km (59 mi) and it took me (without breaks and stops) just under 
 Yours  
 Marcus
 
-- [Continue reading with day 4](/Mittelland-Route-Day-4)
-- [Watch a German video documentation](/Mittelland-Route-Video)
+- [Continue reading with day 4](/en/tour/2019/04/22/Mittelland-Route-Day-4/)
+- [Watch a German video documentation](/en/tour/2019/04/27/Mittelland-Route-Video/)
