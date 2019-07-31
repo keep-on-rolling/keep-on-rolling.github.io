@@ -35,5 +35,5 @@ Later in the evening, I get a hint about a bicycle shop in Zurich, which is supp
 Yours  
 Marcus
 
-- [Continue reading with day 2](/en/tour/2019/04/20/Mittelland-Route-Day-2/)
-- [Watch a German video documentation](/en/tour/2019/04/27/Mittelland-Route-Video/)
+- [Continue reading with day 2](/en/2019/04/20/Mittelland-Route-Day-2/)
+- [Watch a German video documentation](/en/2019/04/27/Mittelland-Route-Video/)

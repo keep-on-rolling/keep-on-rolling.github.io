@@ -39,5 +39,5 @@ Altogether it was 134 km (83 mi) today and it took me (without breaks and stops)
 Yours  
 Marcus
 
-- [Continue reading with day 3](/en/tour/2019/04/21/Mittelland-Route-Day-3/)
-- [Watch a German video documentation](/en/tour/2019/04/27/Mittelland-Route-Video/)
+- [Continue reading with day 3](/en/2019/04/21/Mittelland-Route-Day-3/)
+- [Watch a German video documentation](/en/2019/04/27/Mittelland-Route-Video/)

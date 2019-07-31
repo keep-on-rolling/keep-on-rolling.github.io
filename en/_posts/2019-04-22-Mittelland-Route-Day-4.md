@@ -27,4 +27,4 @@ Arrived in Lucerne, I fetch something to take with me from the Asians in the tra
 Yours  
 Marcus
 
-- [Watch a German video documentation](/en/tour/2019/04/27/Mittelland-Route-Video/)
+- [Watch a German video documentation](/en/2019/04/27/Mittelland-Route-Video/)

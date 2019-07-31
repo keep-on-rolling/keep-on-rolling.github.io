@@ -71,14 +71,14 @@ During the ride, I will have my [live tracking](/en/live) activated again, where
 
 Keep your fingers crossed for me! I really need it...
 
-- [Read my post on the first day](/en/tour/2019/05/17/Barcelona-2019-Day-1/)
-- [Read my post on the second day](/en/tour/2019/05/18/Barcelona-2019-Day-2/)
-- [Read my post on the third day](/en/tour/2019/05/19/Barcelona-2019-Day-3/)
-- [Read my post on the fourth day](/en/tour/2019/05/20/Barcelona-2019-Day-4/)
-- [Read my post on the fifth day](/en/tour/2019/05/21/Barcelona-2019-Day-5/)
-- [Read my post on the sixth day](/en/tour/2019/05/22/Barcelona-2019-Day-6/)
-- [Read my post on the seventh day](/en/tour/2019/05/23/Barcelona-2019-Day-7/)
-- [Read my post on the eigth day](/en/tour/2019/05/24/Barcelona-2019-Day-8/)
+- [Read my post on the first day](/en/2019/05/17/Barcelona-2019-Day-1/)
+- [Read my post on the second day](/en/2019/05/18/Barcelona-2019-Day-2/)
+- [Read my post on the third day](/en/2019/05/19/Barcelona-2019-Day-3/)
+- [Read my post on the fourth day](/en/2019/05/20/Barcelona-2019-Day-4/)
+- [Read my post on the fifth day](/en/2019/05/21/Barcelona-2019-Day-5/)
+- [Read my post on the sixth day](/en/2019/05/22/Barcelona-2019-Day-6/)
+- [Read my post on the eigth day](/en/2019/05/24/Barcelona-2019-Day-8/)
+- [Read my post on the nineth day](/en/2019/05/25/Barcelona-2019-Day-9/)
 
 Yours  
 Marcus
