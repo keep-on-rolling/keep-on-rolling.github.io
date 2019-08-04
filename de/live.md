@@ -10,9 +10,7 @@ Wenn ich längere Touren fahre, benutze ich oft die mobile App von [LocaToWeb](h
 
 ## Aktuelle Live-Übertragung
 
-Derzeit gibt es keine Live-Übertragung. Die nächste Reise mit Live-Übertragung beginnt Mitte August 2019 und wird hier verlinkt. Eigentlich beginnt die Reise bereits am 1. August mit einer Atlantiküberquerung per Schiff von Antwerpen (Belgien) nach Philadelphia (USA), aber während der Überfahrt habe ich kein Internet, um meine Position zu aktualisieren. Die Radtour beginnt an der Ostküste in Philadelphia und führt über Chicago (entlang der alten Route 66) nach Los Angeles. Sie wird etwa drei Monate dauern.
+Mitte August 2019 startet meine dreimonatige Durchquerung der USA von der Ostküste zur Westküste. Um überhaupt erstmal in die USA zu kommen, überquere ich den Atlantik dieses mal in einem Frachtschiff, der Independent Horizon. Die Überfahrt zeichne ich wieder auf und ich versuche auch ein Live-Tracking, kann mitten auf dem Atlantik aber nichts versprechen. Klickt einfach auf das grosse Icon und drückt beide Daumen, dass es klappt...
 
-<!--
 [![LocaToWeb](images/locatoweb.jpg)  
-Aktuelle Position anzeigen](https://locatoweb.com/map/single/0509174878)
--->
+Aktuelle Position anzeigen](https://locatoweb.com/map/single/1130185043)
