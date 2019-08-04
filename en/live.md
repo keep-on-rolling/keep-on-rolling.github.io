@@ -12,5 +12,5 @@ When I ride longer tours, I often use the mobile app of [LocaToWeb](https://loca
 
 In mid-August 2019 I will start my three-month crossing of the USA from the east coast to the west coast. To get to the USA at all, I cross the Atlantic this time in a cargo ship, the Independent Horizon. I record the crossing again and also try a live tracking, but I can't promise anything in the middle of the Atlantic. Just click on the big icon and keep your fingers crossed that it works...
 
-[![LocaToWeb](images/locatoweb.jpg)  
+[![LocaToWeb](/images/locatoweb.jpg)  
 Show current position](https://locatoweb.com/map/single/1130185043)
