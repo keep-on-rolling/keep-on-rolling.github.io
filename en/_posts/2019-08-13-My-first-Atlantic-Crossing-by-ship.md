@@ -5,7 +5,7 @@ lang: en
 lang-ref: my-first-atlantic-crossing-by-ship
 ---
 
-[As I wrote here before](/en/2019/08/04/Start-of-my-Atlantic-Crossing/) I boarded the Independent Horizon on August 2nd, 2019. On August 4th at about 2 pm we left Antwerp almost fully loaded. First we went down the river Schelde into the North Sea and then across the English Channel into the Atlantic Ocean. There we drove straight on for days until we reached our destination. In a dead straight line. Pretty much directly to the west. Exactly the same direction at the same speed of about 30 km/h (19 mph).
+[As I wrote here before](/en/2019/08/04/Start-of-my-Atlantic-crossing/) I boarded the Independent Horizon on August 2nd, 2019. On August 4th at about 2 pm we left Antwerp almost fully loaded. First we went down the river Schelde into the North Sea and then across the English Channel into the Atlantic Ocean. There we drove straight on for days until we reached our destination. In a dead straight line. Pretty much directly to the west. Exactly the same direction at the same speed of about 30 km/h (19 mph).
 
 For this crossing I had the cabin of the ship owner. A good decision, because this is almost luxurious to call. Altogether three rooms. A kind of living and working area with a big desk at the window with a view to the front, a sofa corner with sofa, two armchairs and a big table, a flat screen TV and a refrigerator. Then a bedroom with double bed (1.40 x 2.00 m / 55 x 80 in), table, armchair and window to the front. Finally a small bathroom with shower, WC and washbasin. In all rooms there was still enough storage space in various cupboards. So it can be endured well!
 
