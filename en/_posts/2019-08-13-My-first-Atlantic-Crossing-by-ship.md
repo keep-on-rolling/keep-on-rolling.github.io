@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My first Atlantic Crossing by ship
-lang: de
+lang: en
 lang-ref: my-first-atlantic-crossing-by-ship
 ---
 
