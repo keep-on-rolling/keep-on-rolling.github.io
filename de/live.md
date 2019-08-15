@@ -10,7 +10,16 @@ Wenn ich längere Touren fahre, benutze ich oft die mobile App von [LocaToWeb](h
 
 ## Aktuelle Live-Übertragung
 
-Mitte August 2019 startet meine dreimonatige Durchquerung der USA von der Ostküste zur Westküste. Um überhaupt erstmal in die USA zu kommen, überquere ich den Atlantik dieses mal in einem Frachtschiff, der Independent Horizon. Die Überfahrt zeichne ich wieder auf und ich versuche auch ein Live-Tracking, kann mitten auf dem Atlantik aber nichts versprechen. Klickt einfach auf das grosse Icon und drückt beide Daumen, dass es klappt...
+Nach einer Altlantiküberquerung mit dem Schiff Anfang August bin ich seit Mitte August dabei, mit meinem Fahrrad die USA zu durchqueren. Der Spass wird etwas drei Monate dauern und weitere Infos dazu gibt es [in einem eigenen Blog-Artikel](/de/2019/07/30/Sabbatical-2019-USA/).
 
 [![LocaToWeb](/images/locatoweb.jpg)  
-Aktuelle Position anzeigen](https://locatoweb.com/map/single/1130185043)
+Aktuelle Position anzeigen](https://locatoweb.com/map/single/1238186268)
+
+## Vergangene Live-Übertragungen
+
+Hier findest du einige ausgewählte Live-Übertragungen meiner vergangenen Radreisen:
+
+- [Altlantiküberquerung mit dem Schiff](https://locatoweb.com/map/single/1130185043)
+- [Von Luzern nach Barcelona und zurück](https://locatoweb.com/map/single/0509174878)
+- [Mitelland-Route vom Bodensee zum Genfer See](https://locatoweb.com/map/single/0716172140)
+- [Von der Schweiz durch ganz Deutschland nach Dänemark](https://locatoweb.com/map/single/0634149103)

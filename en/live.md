@@ -10,7 +10,16 @@ When I ride longer tours, I often use the mobile app of [LocaToWeb](https://loca
 
 ## Actual live broadcast event
 
-In mid-August 2019 I will start my three-month crossing of the USA from the east coast to the west coast. To get to the USA at all, I cross the Atlantic this time in a cargo ship, the Independent Horizon. I record the crossing again and also try a live tracking, but I can't promise anything in the middle of the Atlantic. Just click on the big icon and keep your fingers crossed that it works...
+After crossing the Atlantic Ocean by ship at the beginning of August, I am crossing the USA with my bicycle since mid-August. The trip will take about three months and more information can be found [in an own blog article](/en/2019/07/30/Sabbatical-2019-USA/).
 
 [![LocaToWeb](/images/locatoweb.jpg)  
-Show current position](https://locatoweb.com/map/single/1130185043)
+Show current position](https://locatoweb.com/map/single/1238186268)
+
+## Past live broadcast events
+
+Here you can find preselected live broadcast events of my past bicycle travels:
+
+- [Atlantic Crossing by ship](https://locatoweb.com/map/single/1130185043)
+- [From Lucerne to Barcelona and back](https://locatoweb.com/map/single/0509174878)
+- [From Lake Constance to Lake Geneva](https://locatoweb.com/map/single/0716172140)
+- [From Switzerland to Denmark](https://locatoweb.com/map/single/0634149103)
