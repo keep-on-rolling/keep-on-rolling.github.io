@@ -270,10 +270,12 @@ nav {
     font-size: 15px;
   }
 
-  .tour-statistics th, .tour-statistics td {
-    border: 1px solid #666;
-    min-width: 100px;
-    padding: 5px;
+  .tour-statistics {
+    th, td {
+      border: 1px solid #666;
+      min-width: 100px;
+      padding: 5px;
+    }
   }
 }
 
