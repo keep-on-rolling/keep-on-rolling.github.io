@@ -12,6 +12,8 @@ Wenn ich längere Touren fahre, benutze ich oft die mobile App von [LocaToWeb](h
 
 Nach einer Altlantiküberquerung mit dem Schiff Anfang August bin ich seit Mitte August dabei, mit meinem Fahrrad die USA zu durchqueren. Der Spass wird etwas drei Monate dauern und weitere Infos dazu gibt es [in einem eigenen Blog-Artikel](/de/2019/07/30/Sabbatical-2019-USA/).
 
+Bei dieser Live-Übertragung gibt es ausnahmsweise keine Fotos auf LocaToWeb, da die Tracker-App alleine auf einem separaten Smartphone läuft und sich in meiner Tasche befindet. Meine Fotos verlinke ich unter meinen Tagesberichten in meinem laufenden Blog, leider mit etwas Verzögerung da ich nicht jeden Tag Zeit zum Schreiben habe.
+
 [![LocaToWeb](/images/locatoweb.jpg)  
 Aktuelle Position anzeigen](https://locatoweb.com/map/single/1238186268)
 
