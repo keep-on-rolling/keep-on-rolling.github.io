@@ -10,17 +10,18 @@ When I ride longer tours, I often use the mobile app of [LocaToWeb](https://loca
 
 ## Actual live broadcast event
 
-After crossing the Atlantic Ocean by ship at the beginning of August, I am crossing the USA with my bicycle since mid-August. The trip will take about three months and more information can be found [in an own blog article](/en/2019/07/30/Sabbatical-2019-USA/).
+Currently, there is no live broadcast. But I already have many ideas for further trips! I am finished for 2019, but in 2020 it will go on...
 
-During this live broadcast, there are exceptionally no photos on LocaToWeb, as the Tracker app runs alone on a separate smartphone and is in my pocket. I link my photos under my daily reports in my running blog, unfortunately with some delay because I don't have time to write every day.
-
+<!--
 [![LocaToWeb](/images/locatoweb.jpg)  
 Show current position](https://locatoweb.com/map/single/1238186268)
+-->
 
 ## Past live broadcast events
 
 Here you can find preselected live broadcast events of my past bicycle travels:
 
+- [Trans USA 2019 from Coast to Coast](https://locatoweb.com/map/single/1238186268)
 - [Atlantic Crossing by ship](https://locatoweb.com/map/single/1130185043)
 - [From Lucerne to Barcelona and back](https://locatoweb.com/map/single/0509174878)
 - [From Lake Constance to Lake Geneva](https://locatoweb.com/map/single/0716172140)

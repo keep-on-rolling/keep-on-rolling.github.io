@@ -10,17 +10,18 @@ Wenn ich längere Touren fahre, benutze ich oft die mobile App von [LocaToWeb](h
 
 ## Aktuelle Live-Übertragung
 
-Nach einer Altlantiküberquerung mit dem Schiff Anfang August bin ich seit Mitte August dabei, mit meinem Fahrrad die USA zu durchqueren. Der Spass wird etwas drei Monate dauern und weitere Infos dazu gibt es [in einem eigenen Blog-Artikel](/de/2019/07/30/Sabbatical-2019-USA/).
+Derzeit gibt es keine Live-Übertragung. Aber ich habe bereits viele Ideen für weitere Reisen! Für 2019 bin ich fertig, aber 2020 geht es weiter...
 
-Bei dieser Live-Übertragung gibt es ausnahmsweise keine Fotos auf LocaToWeb, da die Tracker-App alleine auf einem separaten Smartphone läuft und sich in meiner Tasche befindet. Meine Fotos verlinke ich unter meinen Tagesberichten in meinem laufenden Blog, leider mit etwas Verzögerung da ich nicht jeden Tag Zeit zum Schreiben habe.
-
+<!--
 [![LocaToWeb](/images/locatoweb.jpg)  
 Aktuelle Position anzeigen](https://locatoweb.com/map/single/1238186268)
+-->
 
 ## Vergangene Live-Übertragungen
 
 Hier findest du einige ausgewählte Live-Übertragungen meiner vergangenen Radreisen:
 
+- [USA Reise 2019 vom Atlantik zum Pazifik](https://locatoweb.com/map/single/1238186268)
 - [Altlantiküberquerung mit dem Schiff](https://locatoweb.com/map/single/1130185043)
 - [Von Luzern nach Barcelona und zurück](https://locatoweb.com/map/single/0509174878)
 - [Mitelland-Route vom Bodensee zum Genfer See](https://locatoweb.com/map/single/0716172140)
