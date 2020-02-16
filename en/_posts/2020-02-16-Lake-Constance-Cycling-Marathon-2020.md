@@ -7,7 +7,7 @@ lang-ref: lake-constance-cycling-marathon-2020
 
 One of my goals for 2020: The [Lake Constance Cycling Marathon](https://bodensee-radmarathon.ch/en/), Gold Tour with 220 km around the Upper and Lower Lake in one day. Yesterday I registered, now there is no turning back! My new bike will be built on 09/03 and the marathon will take place on 09/12. I have exactly six months to prepare. This is going to be hard...
 
-== Gold-Tour 220 km
+## Gold-Tour 220 km
 
 | Sections | km | hm | Riding time |
 | :-- | :--: | :--: | :--: |

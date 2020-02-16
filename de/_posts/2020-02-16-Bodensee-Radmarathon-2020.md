@@ -7,7 +7,7 @@ lang-ref: bodensee-radmarathon-2020
 
 Eines meiner Ziele für 2020: Der [Bodensee Radmarathon](https://bodensee-radmarathon.ch/), Gold-Tour mit 220 km rund um den Ober- und Untersee an einem Tag. Gestern habe ich mich angemeldet, jetzt gibt es kein Zurück mehr! Mein neues Velo wird am 09.03. gebaut und der Marathon findet am 12.09. statt. Genau sechs Monate habe ich zur Vorbereitung. Das wird hart…
 
-== Gold-Tour 220 km
+## Gold-Tour 220 km
 
 | Teilstrecken | km | hm | Richtzeit in Min |
 | :-- | :--: | :--: | :--: |
