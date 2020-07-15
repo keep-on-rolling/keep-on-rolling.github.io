@@ -10,12 +10,11 @@ When I ride longer tours, I often use the mobile app of [LocaToWeb](https://loca
 
 ## Actual live broadcast event
 
-Currently, there is no live broadcast. But I already have many ideas for further trips! I am finished for 2019, but in 2020 it will go on...
+I am on a bike packing tour with my new Open WI.DE. gravel bike trough Germany with a little detour through Frace and (of course) Switzerland.
 
-<!--
+
 [![LocaToWeb](/images/locatoweb.jpg)  
-Show current position](https://locatoweb.com/map/single/1238186268)
--->
+Show current position](https://locatoweb.com/map/single/0642212258)
 
 ## Past live broadcast events
 
