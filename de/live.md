@@ -10,12 +10,10 @@ Wenn ich längere Touren fahre, benutze ich oft die mobile App von [LocaToWeb](h
 
 ## Aktuelle Live-Übertragung
 
-Derzeit gibt es keine Live-Übertragung. Aber ich habe bereits viele Ideen für weitere Reisen! Für 2019 bin ich fertig, aber 2020 geht es weiter...
+Zur Zeit bin ich mit meinem neuen Open WI.DE. Gravel Bike auf Bike Packing Tour in Deutschland unterwegs, mit einem geplanten Abstecher nach Frankreich und (natürlich) auch ein Stück in der Schweiz. 
 
-<!--
 [![LocaToWeb](/images/locatoweb.jpg)  
-Aktuelle Position anzeigen](https://locatoweb.com/map/single/1238186268)
--->
+Aktuelle Position anzeigen](https://locatoweb.com/map/single/0642212258)
 
 ## Vergangene Live-Übertragungen
 
