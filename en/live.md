@@ -10,7 +10,7 @@ When I ride longer tours, I often use the mobile app of [LocaToWeb](https://loca
 
 ## Actual live broadcast event
 
-I am on a bike packing tour with my new Open WI.DE. gravel bike trough Germany with a little detour through Frace and (of course) Switzerland.
+I am on a bike packing tour with my new Open WI.DE. gravel bike trough Germany with a little detour through France and (of course) Switzerland.
 
 
 [![LocaToWeb](/images/locatoweb.jpg)  
