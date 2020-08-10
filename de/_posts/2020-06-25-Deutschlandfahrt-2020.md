@@ -9,6 +9,8 @@ _Hinweis: Ich Depp habe vergessen, diesen Artikel nach dem Schreiben vor meiner 
 
 Dieses Jahr hat es in sich. Als ich mir im Januar über die diesjährigen Möglichkeiten meiner Radreise Gedanken gemacht habe, war Corona noch kein Thema. Also habe ich viel geplant, was ich dann in den folgenden Monaten immer wieder umplanen durfte. Doch nun steht es fest: Dieses Jahr werde ich eine Bikepacking-Tour von der Schweiz aus durch ganz Deutschland bis zur dänischen Grenze und wieder zurück unternehmen.
 
+<!-- more -->
+
 ## Die Idee
 
 Viele meiner Ideen, die ich Anfang Jahr gehabt habe, musste ich verwerfen. Mit den ganzen unterschiedlichen und sich dauernd verändernden Einreisebeschränkungen ist eine einigermassen seriöse Planung nicht möglich. Also habe ich mich auf zwei Varianten eingeschossen. Wenn die Grenzen nach wie vor geschlossen sind, wollte ich verschiedene nationale Velorouten in der Schweiz abfahren. Das war sozusagen mein Plan B.

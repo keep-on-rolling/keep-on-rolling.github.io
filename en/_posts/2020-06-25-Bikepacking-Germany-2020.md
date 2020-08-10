@@ -9,6 +9,8 @@ _Note: I moron forgot to post this article after writing before my departure! So
 
 This year's going to be tough. When I was thinking about the possibilities for my cycling trip this year in January, Corona was not yet an issue. So I planned a lot, which I then replanned again and again in the following months. But now it's clear: This year I'm going to do a bikepacking tour from Switzerland through all of Germany to the Danish border and back again.
 
+<!-- more -->
+
 ## The Idea
 
 I had to discard many of the ideas I had at the beginning of the year. With all the different and constantly changing immigration restrictions, a more or less serious planning is not possible. So I focused on two variants. If the borders are still closed, I wanted to ride different national bike routes in Switzerland. That was my plan B.
