@@ -25,6 +25,6 @@ Schweiz
 
 ## Kontakt
 
-E-Mail: marcus@fatmancycling.tours
+E-Mail: [marcus@fatmancycling.tours](mailto:marcus@fatmancycling.tours)
 
 Bitte erwarte keine rasche Antwort. Ich bin, wie mein Blog zeigt, sehr viel auf meinem Fahrrad unterwegs und unternehme auch sehr lange Fahrradreisen. Dabei ist es oft so, dass ich über Tage oder sogar Wochen hinweg keinen Zugang zum Internet habe. Wundere dich also nicht, wenn eine Antwort von mir einige Zeit dauert. Vielen Dank für dein Verständnis!
