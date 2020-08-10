@@ -6,15 +6,25 @@ lang-ref: about
 permalink: /en/about/
 ---
 
-My mother called me Marcus. That was several decades ago. That was at a time when I was still slim. Even then, I had an incredible pleasure to race around on my bike. The name and the joy of cycling have remained...
+This blog is an experiment. I would like to share my years of experience and above all tell my friends and relatives about my travels and excursions with my bicycle.
 
-As I got older I had a little accident and fell into a pot of yeast. In the beginning this was no problem at all, because I lived in Northern Germany and the highest peaks there were molehills. Then I emigrated to Switzerland. Here there are such high mountains that even the ISS has to fly evasive manoeuvres and rather avoids Switzerland! Not exactly ideal for a cyclist of my stature and condition.
+One of my experiments is that I will film some of my trips and excursions with a camera. With a bit of luck this will result in a [video](/en/videos), which I will also publish.
 
-But that doesn't stop me from dressing up in funny clothes and from making the area unsafe with my bike. Since I bought a pedelec in the spring of 2018, I'm finally having fun again and ride a lot more than before. It's a Stromer ST2 S, which I've slightly modified in the meantime (different saddle, different handlebars, different luggage carrier).
+The name of my blog is a combination of my physical stature and my humor. If I squeeze myself into special cycling clothing, it can look a bit special. Of course, I also have a real name: Marcus
 
-After many day- and weekend trips I made a bigger trip and drove with my Stromer from Lucerne in Switzerland through Germany to Padborg in Denmark. This was so much fun for me that I now do such trips more often. For the future, I plan to write about my trips and travels in this blog. A kind of travel journal. First and foremost as a reflection for myself but also for my friends, who keep asking me for experiences and photos etc.
+My "fleet" now includes four bicycles: A trekking and touring bike from Villiger, a folding bike from Brompton, an e-bike from Stromer and a self-built gravel bike. With my Stromer I have already been riding for two and a half months through the USA, from the Atlantic to the Pacific. My Gravel-Bike is the newest of them all and that's also the bike I'm riding most with at the moment.
 
-Not everything will be perfect, I still have a lot to learn. Since I also deal with GPS tracking and video recordings during the trip, there will be many experiments to be seen here and there will certainly go one or the other wrong. In any case, I am also happy about suggestions, tips and (respectful) comments of any kind among my contributions.
+Now I hope you enjoy reading my blog and watching my videos, and I'm looking forward to your comments and feedback!
 
-Enjoy this site  
-Marcus
+## Imprint
+
+Marcus Fihlon  
+Winkelriedstrasse 25  
+6003 Luzern  
+Schweiz
+
+## Contact
+
+E-Mail: marcus@fatmancycling.tours
+
+Please do not expect a quick answer. As my blog shows, I ride my bike a lot, and I also take very long bike trips. It is often the case that I have no access to the internet for days or even weeks. So don't be surprised if an answer from me takes some time. Thank you very much for your understanding!
