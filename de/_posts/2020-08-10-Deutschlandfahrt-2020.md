@@ -7,7 +7,7 @@ lang-ref: bikepacking-germany-2020
 
 Dieses Jahr hat es in sich. Als ich mir im Januar über die diesjährigen Möglichkeiten meiner Radreise Gedanken gemacht habe, war Corona noch kein Thema. Also habe ich viel geplant, was ich dann in den folgenden Monaten immer wieder umplanen durfte. Doch nun steht es fest: Dieses Jahr werde ich eine Bikepacking-Tour von der Schweiz aus durch ganz Deutschland bis zur dänischen Grenze und wieder zurück unternehmen.
 
-_Hinweis: Ich Depp habe vergessen, diesen Artikel nach dem Schreiben vor meiner Abfahrt aufzuschalten! Das habe ich jetzt nachgeholt..._
+_Hinweis: Ich Depp habe vergessen, diesen Artikel nach dem Schreiben am 25.06.2020 vor meiner Abfahrt am 04.07.2020 aufzuschalten! Das habe ich jetzt am 10.08.2020 nachgeholt..._
 
 ## Die Idee
 
