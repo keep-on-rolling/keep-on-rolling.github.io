@@ -5,11 +5,9 @@ lang: en
 lang-ref: bikepacking-germany-2020
 ---
 
-_Note: I moron forgot to post this article after writing before my departure! I've made up for it now..._
-
 This year's going to be tough. When I was thinking about the possibilities for my cycling trip this year in January, Corona was not yet an issue. So I planned a lot, which I then replanned again and again in the following months. But now it's clear: This year I'm going to do a bikepacking tour from Switzerland through all of Germany to the Danish border and back again.
 
-<!-- more -->
+_Note: I moron forgot to post this article after writing before my departure! I've made up for it now..._
 
 ## The Idea
 
