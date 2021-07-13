@@ -10,7 +10,13 @@ When I ride longer tours, I often use the mobile app of [LocaToWeb](https://loca
 
 ## Actual live broadcast event
 
-There is currently no live broadcast. But I am already planning my next trip. Until this one will begin, you are welcome to watch the past live broadcasts.
+Starting this Saturday, July 17, 2021, I will begin my summer trip this year. From Lucerne, I first take the north-south route (National Cycle Route 3) to Aarau and then along the Aare Cycle Path (National Cycle Route 8) to where it merges with the Rhine at Waldshut. I then join the Danube Cycle Path (D6), which I follow to Donauwörth. From there it goes along the long-distance cycle path "Romantic Road" (D9) to Würzburg and then the Main cycle path (D5) upstream to Bamberg. Until Berlin, my first big goal, I cycle along the long-distance cycle path "Oberbayern - Ostsee" (D11) with a lot of vertical meters.
+
+If I still have some power left, I will cycle along the long-distance cycle path "Berlin - Usedom" to the Baltic Sea to Heringsdorf and Peenemünde. If I still have a few days of my vacation left, I extend my tour along the Baltic Coast Route (D2) to Travemünde. From there I'll follow the Iron Curtain Trail (EuroVelo 13) to Lauenburg at the Elbe river and then the cycle path along the Elbe (D10) to Hamburg, from where I'll take the train back to Lucerne.
+
+If I manage to do all that as planned, that's a total of over 2,500 km (1,550 mi) and a good 14,000 vertical meters (46,000 ft). But honestly, I don't think I'll be able to complete the entire planned route in the three weeks I'm on vacation. Berlin is my main goal, I want to reach that in any case. Everything else is optional then and I'll let it come to me....
+
+**The link to show my current position on a map will be displayed here after my departure!**
 
 <!--
 [![LocaToWeb](/images/locatoweb.jpg)  
