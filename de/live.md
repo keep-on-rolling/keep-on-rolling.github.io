@@ -6,11 +6,11 @@ lang-ref: live
 permalink: /de/live/
 ---
 
-Wenn ich längere Touren fahre, benutze ich oft die mobile App von [LocaToWeb](https://locatoweb.com/user/mcpringle) und zeige meine aktuelle Position auf dieser Seite an. Du kannst mir dann hier live folgen, mir Nachrichten schicken und meine Fotos ansehen, direkt nachdem ich sie gemacht habe.
+Wenn ich längere Touren fahre, benutze ich oft die mobile App von [LocaToWeb](https://locatoweb.com/user/mcpringle) und zeige meine aktuelle Position auf dieser Seite an. Du kannst mir dann hier live folgen, mir Nachrichten schicken und meine Fotos ansehen – direkt, nachdem ich sie gemacht habe.
 
 ## Aktuelle Live-Übertragung
 
-Heute starte ich meine neue Radreise. Der Link zur Live-Übertragung folgt am Nachmittag…
+Heute starte ich meine neue Radreise. Der Link zur Live-Übertragung folgt am Nachmittag.
 
 <!--
 [![LocaToWeb](/images/locatoweb.jpg)  

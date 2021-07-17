@@ -10,7 +10,7 @@ When I ride longer tours, I often use the mobile app of [LocaToWeb](https://loca
 
 ## Actual live broadcast event
 
-Today I start my new bike packing trip. The link to the live broadcast will follow in the afternoon...
+Today I start my new bike packing trip. The link to the live broadcast will follow in the afternoon.
 
 <!--
 [![LocaToWeb](/images/locatoweb.jpg)  
