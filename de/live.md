@@ -10,12 +10,8 @@ Wenn ich längere Touren fahre, benutze ich oft die mobile App von [LocaToWeb](h
 
 ## Aktuelle Live-Übertragung
 
-Heute starte ich meine neue Radreise. Der Link zur Live-Übertragung folgt am Nachmittag.
-
-<!--
 [![LocaToWeb](/images/locatoweb.jpg)  
-Aktuelle Position anzeigen](https://locatoweb.com/map/single/0642212258)
--->
+Aktuelle Position anzeigen](https://locatoweb.com/map/single/0639240810)
 
 ## Vergangene Live-Übertragungen
 
