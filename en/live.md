@@ -10,13 +10,18 @@ When I ride longer tours, I often use the mobile app of [LocaToWeb](https://loca
 
 ## Actual live broadcast event
 
+There is currently no live broadcast. But I am already planning my next trip. Until this one will begin, you are welcome to watch the past live broadcasts.
+
+<!--
 [![LocaToWeb](/images/locatoweb.jpg)  
 Show current position](https://locatoweb.com/map/single/0639240810)
+-->
 
 ## Past live broadcast events
 
 Here you can find preselected live broadcast events of my past bicycle travels:
 
+- [Summer Tour 2021 to Berlin](https://locatoweb.com/map/single/0639240810)
 - [Tour of Germany 2020](https://locatoweb.com/map/single/0642212258)
 - [Trans USA 2019 from Coast to Coast](https://locatoweb.com/map/single/1238186268)
 - [Atlantic Crossing by ship](https://locatoweb.com/map/single/1130185043)
