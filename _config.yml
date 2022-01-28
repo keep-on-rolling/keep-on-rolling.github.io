@@ -34,7 +34,7 @@ footer-links:
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
 # You can find your shortname on the Settings page of your Disqus account
-# disqus: keep-on-rolling # Disabled because it displayed 12 ads per page!
+disqus: keep-on-rolling
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: G-4YNV0QYTHW
