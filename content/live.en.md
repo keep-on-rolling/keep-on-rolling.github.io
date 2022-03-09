@@ -1,7 +1,7 @@
 ---
 title: "Live"
 date: 2022-03-01T16:55:16+01:00
-draft: true
+draft: false
 ---
 
 When I ride longer tours, I often use the mobile app of [LocaToWeb](https://locatoweb.com/user/mcpringle) and display my current position on this page. You can then follow me live here, send me messages and look at my photos right after I took them.
