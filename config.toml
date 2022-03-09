@@ -1,0 +1,129 @@
+baseURL = 'https://keep-on-rolling.ch/'
+title = 'Keep On Rolling'
+theme = 'anatole'
+enableEmoji = true
+enableRobotsTXT = true
+defaultContentLanguageInSubdir = true
+
+[params]
+title = 'Keep On Rolling'
+author = 'Keep On Rolling'
+reversepagetitle = true
+description = 'Happyness on two wheels'
+favicon = 'favicons/'
+profilePicture = 'images/no-logo.png'
+mainSections = ['blog']
+postSectionName = "blog"
+singleDateFormat = '2006-01-02'
+indexDateFormat = '2006-01-02'
+listDateFormat = '2006-01-02'
+readMore = true
+customCss = ["css/custom.css"]
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://www.twitter.com/McPringle"
+
+[[params.socialIcons]]
+icon = "fab fa-instagram"
+title = "Instagram"
+url = "https://www.instagram.com/mcpringle/"
+
+[[params.socialIcons]]
+icon = "fas fa-person-biking"
+title = "Komoot"
+url = "https://www.komoot.com/user/306059768140"
+
+[[params.socialIcons]]
+icon = "fab fa-strava"
+title = "Strava"
+url = "https://www.strava.com/athletes/38507092"
+
+[[params.socialIcons]]
+icon = "fab fa-youtube"
+title = "YouTube"
+url = "https://www.youtube.com/channel/UCX-QNpByELuz_7ReG8Z44zA"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:marcus@fihlon.swiss"
+
+[languages]
+[languages.en]
+weight = 1
+languageName = "EN"
+languageCode = 'en-us'
+copyright = '{{ YEAR }} This work by [Marcus Fihlon](https://fihlon.swiss/) is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)'
+
+[languages.de]
+weight = 2
+languageName = "DE"
+languageCode = 'de-ch'
+copyright = '{{ YEAR }} Dieses Werk von [Marcus Fihlon](https://fihlon.swiss/) ist lizensiert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)'
+
+[menu]
+
+[[languages.en.menu.main]]
+name = "Home"
+identifier = "home"
+weight = 100
+url = "/en/"
+
+[[languages.de.menu.main]]
+name = "Startseite"
+identifier = "home"
+weight = 100
+url = "/de/"
+
+[[languages.en.menu.main]]
+name = "Blog"
+weight = 200
+identifier = "blog"
+url = "/en/blog/"
+
+[[languages.de.menu.main]]
+name = "Blog"
+weight = 200
+identifier = "blog"
+url = "/de/blog/"
+
+[[languages.en.menu.main]]
+name = "Videos"
+weight = 500
+identifier = "videos"
+url = "/en/videos/"
+
+[[languages.de.menu.main]]
+name = "Videos"
+weight = 500
+identifier = "videos"
+url = "/de/videos/"
+
+[[languages.en.menu.main]]
+name = "Live"
+weight = 700
+identifier = "live"
+url = "/en/live/"
+
+[[languages.de.menu.main]]
+name = "Live"
+weight = 700
+identifier = "live"
+url = "/de/live/"
+
+[[languages.en.menu.main]]
+name = "Imprint"
+identifier = "imprint"
+weight = 900
+url = "/en/imprint/"
+
+[[languages.de.menu.main]]
+name = "Impressum"
+identifier = "imprint"
+weight = 900
+url = "/de/imprint/"
+
+[permalinks]
+blog = '/:year/:month/:day/:slug/'
