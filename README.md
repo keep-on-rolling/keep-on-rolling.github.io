@@ -17,6 +17,16 @@ hugo server --port 13130 --watch --gc --buildDrafts --navigateToChanged
 | `--buildDrafts` | include content marked as draft |
 | `--navigateToChanged` | navigate to changed content file on live browser reload |
 
+## Clone
+
+There are a few more steps needed to clone this respository, because it uses the theme repository as a git submodule:
+
+```raw
+$> git clone git@github.com:keep-on-rolling/keep-on-rolling.github.io.git
+$> git submodule init
+$> git submodule update
+```
+
 ## License
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
