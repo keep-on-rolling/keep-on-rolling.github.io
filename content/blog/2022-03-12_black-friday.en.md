@@ -14,7 +14,7 @@ Planned for today were 165 km from Erlinsbach in Switzerland over the Jura, thro
 
 Instead of Erstein, I am now back in Lucerne. But what had happened? On my way up to the highest point of the whole tour at 908 meters above sea level, my shifting went bye-bye! But not only that I could no longer shift - it also automatically jumped to the smallest sprocket, so the heaviest gear. Going uphill it was impossible to get the bike moving. All my repair attempts failed.
 
-But I did not want to give up yet. Not far away was Aarau. There it went mostly downhill, so that was possible. So I managed to get to the train station in Aarau and caught a direct train to Zurich. In Zurich Enge I went to [Backyard](https://www.backyard.ch/), the bike mech of my choice. He immediately left everything else and tried to help me. But I make it short: No chance. The rear derailleur is defective and must be completely replaced.
+But I did not want to give up yet. Not far away was Aarau. There it went mostly downhill, so that was possible. So I managed to get to the train station in Aarau and caught a direct train to Zurich. In Zurich Enge I went to [Backyard](https://www.backyard.ch/), the bike mech of my choice. He immediately left everything else and tried to help me. But I make it short: No chance. The rear derailleur is defective ()actually the index rod and must be completely replaced.
 
 I must say that I drive a hydraulic rear derailleur from European production, from [Rotor](https://rotorbike.com/) (Spain). For this they had no replacement rear derailleur in stock and it must first be ordered. In addition, today is Friday, so a weekend follows and therefore even with a very fast delivery, the arrival of the spare part is not expected before Monday.
 
