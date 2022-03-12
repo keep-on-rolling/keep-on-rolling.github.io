@@ -19,12 +19,16 @@ hugo server --port 13130 --watch --gc --buildDrafts --navigateToChanged
 
 ## Clone
 
-There are a few more steps needed to clone this respository, because it uses the theme repository as a git submodule:
+This repository uses the [anatole theme repository](https://github.com/lxndrblz/anatole/) as a git submodule. When cloing this repository, you need to tell git to clone the submodules, too:
 
 ```raw
-$> git clone git@github.com:keep-on-rolling/keep-on-rolling.github.io.git
-$> git submodule init
-$> git submodule update
+git clone --recurse-submodules git@github.com:keep-on-rolling/keep-on-rolling.github.io.git
+```
+
+If you forgot it, this website will not work. You can fix it by initializing and updating the submodules:
+
+```raw
+git submodule update --init --recursive
 ```
 
 ## License
