@@ -1,6 +1,5 @@
 ---
 title: "Live"
-date: 2022-03-01T16:55:16+01:00
 draft: false
 ---
 

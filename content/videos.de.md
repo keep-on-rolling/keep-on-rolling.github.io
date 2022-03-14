@@ -1,6 +1,5 @@
 ---
 title: "Videos"
-date: 2022-03-01T16:34:02+01:00
 draft: false
 ---
 
