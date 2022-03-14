@@ -1,6 +1,6 @@
 ---
 title: "Black Friday"
-date: 2022-03-12T10:29:24+01:00
+date: 2022-03-12
 draft: false
 ---
 
