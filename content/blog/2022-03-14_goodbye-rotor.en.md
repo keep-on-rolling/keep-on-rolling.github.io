@@ -4,7 +4,7 @@ date: 2022-03-14
 draft: false
 ---
 
-A week ago the rear derailleur broke during my bikepacking tour from Lucerne to Brühl to attend the JavaLand conference, [I had already written about it]({{< ref "2022-03-12_black-friday.en.md" >}}). I built my gravel bike almost two years ago to the day and this is already the second broken rear derailleur in two years. So slowly I lose confidence in my shifting. But what were my reasons for selecting a Rotor drivetrain, what problems I had and above all, what happens next?
+Last week the rear derailleur broke during my bikepacking tour from Lucerne to Brühl to attend the JavaLand conference, [I had already written about it]({{< ref "2022-03-12_black-friday.en.md" >}}). I built my gravel bike almost two years ago to the day and this is already the second broken rear derailleur in two years. So slowly I lose confidence in my shifting. But what were my reasons for selecting a Rotor drivetrain, what problems I had and above all, what happens next?
 
 ## Why Rotor?
 

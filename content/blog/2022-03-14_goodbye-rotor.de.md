@@ -5,7 +5,7 @@ date: 2022-03-14
 draft: false
 ---
 
-Vor einer Woche ist mir bei meiner Bikepacking-Tour von Luzern nach Brühl zur JavaLand das Schaltwerk kaputt gegangen, [ich hatte schon darüber geschrieben]({{< ref "2022-03-12_black-friday.de.md" >}}). Mein Gravelbike habe ich vor fast auf den Tag genau zwei Jahren aufgebaut und dies ist bereits das zweite kaputte Schaltwerk in zwei Jahren. So langsam verliere ich das Vertrauen in meine Schaltung. Doch was waren meine Gründe für Rotor, welche Probleme hatte ich und vor allem, wie geht es weiter?
+Letzte Woche ist mir bei meiner Bikepacking-Tour von Luzern nach Brühl zur JavaLand das Schaltwerk kaputt gegangen, [ich hatte schon darüber geschrieben]({{< ref "2022-03-12_black-friday.de.md" >}}). Mein Gravelbike habe ich vor fast auf den Tag genau zwei Jahren aufgebaut und dies ist bereits das zweite kaputte Schaltwerk in zwei Jahren. So langsam verliere ich das Vertrauen in meine Schaltung. Doch was waren meine Gründe für Rotor, welche Probleme hatte ich und vor allem, wie geht es weiter?
 
 ## Weshalb Rotor?
 
