@@ -24,5 +24,5 @@ But it's not the end of the world. This tour should also be a preparation for my
 
 Cross your fingers for me!
 
-Your  
+Yours  
 Marcus
