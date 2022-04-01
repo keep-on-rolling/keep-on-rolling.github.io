@@ -32,5 +32,5 @@ Honestly, I have lost confidence in the Rotor shifting group. Therefore, I have 
 
 Whether it is now a Shimano, SRAM or Campagnolo, I do not know yet. After my return from the JavaLand I will consult with my bike mechanic together. The market has changed lot in the last two years, since I had to make this decision the last time. Hopefully I have this time a happier hand and in the future less or no more problems with my shifting group. Please keep your fingers crossed for me!
 
-Your  
+Yours  
 Marcus
