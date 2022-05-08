@@ -46,6 +46,11 @@ title = "YouTube"
 url = "https://www.youtube.com/channel/UCX-QNpByELuz_7ReG8Z44zA"
 
 [[params.socialIcons]]
+icon = "fas fa-person"
+title = "Private Website"
+url = "https://fihlon.swiss/"
+
+[[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:marcus@fihlon.swiss"
