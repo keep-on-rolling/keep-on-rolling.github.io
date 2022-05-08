@@ -1,7 +1,7 @@
 ---
 title: "On the Road Again"
 date: 2022-04-09
-draft: true
+draft: false
 ---
 
 Endlich ist es so weit: Mein geliebtes Gravelbike hat seine neue Schaltung bekommen. Das hört sich so einfach an. Dabei ist die Liste der ausgetauschten Teile wirklich lang (und entsprechend teuer):
