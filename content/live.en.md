@@ -7,7 +7,13 @@ When I ride longer tours, I often use the mobile app of [LocaToWeb](https://loca
 
 ## Actual live broadcast event
 
-There is currently no live broadcast. But I am already planning my next trip. Until this one will begin, you are welcome to watch the past live broadcasts.
+On May 21, 2022, I start my next bike tour. From Lucerne, I'll first ride alone over the Gotthard Pass, then I'll meet a friend in Como. The two of us will continue through Italy to Venice, where we expect to arrive on May 26. After a few days of sightseeing with more friends we will take the train back home on May 29.
+
+While I'm riding you can follow me live online as usual on all my bike travels. Just click on the following icon with the big green pin. Please be patient for a few seconds until the map is loaded and my current position is located:
+
+[![Live-Tracking](/images/locatoweb.jpg)](https://locatoweb.com/map/single/0855262640)
+
+&nbsp;
 
 ## Past live broadcast events
 
