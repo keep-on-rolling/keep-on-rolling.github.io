@@ -18,4 +18,4 @@ Alle Daten werden vom gleichen Server geladen ([keep-on-rolling.ch](https://keep
 
 ## Lizenz
 
-Dieses Werk von [Marcus Fihlon](https://fihlon.swiss/) ist lizensiert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+Dieses Werk von [Marcus Fihlon](https://fihlon.swiss/) ist lizensiert unter [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Die Inhalte werden vom [Hugo Framework](https://gohugo.io/) ([Apache License 2.0](https://github.com/gohugoio/hugo/blob/master/LICENSE)) aufbereitet und es kommt das [Anatole Theme](https://themes.gohugo.io/themes/anatole/) ([MIT License](https://github.com/lxndrblz/anatole/blob/master/LICENSE)) zum Einsatz.
