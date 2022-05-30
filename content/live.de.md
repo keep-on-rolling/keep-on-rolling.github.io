@@ -7,11 +7,7 @@ Wenn ich längere Touren fahre, benutze ich oft die mobile App von [LocaToWeb](h
 
 ## Aktuelle Live-Übertragung
 
-Am 21. Mai 2022 starte ich meine nächste Velotour. Von Luzern aus fahre ich zuerst alleine über den Gotthardpass, dann treffe ich in Como einen Freund. Zu zweit geht es anschliessend durch Italien nach Venedig, wo wir voraussichtlich am 26. Mai ankommen. Nach ein paar Tagen Sightseeing mit weiteren Freunden nehmen wir am 29. Mai den Zug zurück nach Hause.
-
-Während ich fahre kannst du mich wie bei allen meinen Radreisen live online verfolgen. Klicke dazu einfach auf das folgende Icon mit dem grossen, grünen Pin. Bitte habe ein paar Sekunden Geduld, bis die Karte geladen und meine aktuelle Position geortet wurde:
-
-[![Live-Tracking](/images/locatoweb.jpg)](https://locatoweb.com/map/single/0855262640)
+Zur Zeit findet keine Live-Übertragung statt. Allerdings plane ich bereits meine nächste Reise. Bis diese startet, kannst du dir gerne die vergangenen Live-Übertragungen anschauen.
 
 &nbsp;
 
@@ -19,6 +15,7 @@ Während ich fahre kannst du mich wie bei allen meinen Radreisen live online ver
 
 Hier findest du einige ausgewählte Live-Übertragungen meiner vergangenen Radreisen:
 
+- [Von Luzern nach Venedig](https://locatoweb.com/map/single/0855262640)
 - [Sommerreise 2021 nach Berlin](https://locatoweb.com/map/single/0639240810)
 - [Deutschlandfahrt 2020](https://locatoweb.com/map/single/0642212258)
 - [USA Reise 2019 vom Atlantik zum Pazifik](https://locatoweb.com/map/single/1238186268)
