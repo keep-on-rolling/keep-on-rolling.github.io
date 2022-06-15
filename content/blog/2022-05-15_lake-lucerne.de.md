@@ -16,7 +16,7 @@ Allerdings müssen wir uns diesen Weg hart erkämpfen: Gegenüber der stark befa
 
 Dann ging es rasch bergab nach *Küssnacht*, allerdings entgegen der Planung über die Strasse, denn der eigentliche Weg war leider vorübergehend gesperrt. Aber wir kamen trotz der Umleitung problemlos wieder unten am See an, ohne uns erneut zu verfahren. In *Küssnacht* steht direkt am See ein metallisches Herz, ein wunderbares Foto-Motiv. Aber nicht für uns heute, wir waren schon öfters hier und haben schon viele Fotos davon. Ausserdem wollten wir lieber rasch weiter, denn wir hatten das Gefühl durch unser Verfahren am ersten Berg viel Zeit verloren zu haben.
 
-![Blick über einen Seitemarm des Vierwaldstättersee auf den Rigi](/images/blog/2022-05-15_003.jpg)
+![Blick über einen Seitenarm des Vierwaldstättersee auf den Rigi](/images/blog/2022-05-15_003.jpg)
 
 Es gab nämlich noch einen zweiten Berg zu erklimmen. Zwischen *Greppen* und *Weggis* gibt es eine Flanke des Rigi, deren Ausläufer bis in den See reicht. Es hat hier deutlich weniger Höhenmeter als der erste Berg und es ist auch weniger steil, aber die Steigung zieht sich etwas und hat hier doch recht intensiven Verkehr. Daher fahren fast alle auf dem Gehweg. Etwa nach der Hälfte muss ich kurz anhalten, durchschnaufen und viel Wasser trinken. Bei Kilometer 20 haben wir es geschafft, der zweite und letzte Berg ist erklommen. Ab hier geht es überwiegend flach weiter, bis zurück nach *Luzern*.
 
@@ -28,7 +28,7 @@ Das sind etwas mehr als zehn Kilometer direkt an oder auf der Hauptstrasse. Leid
 
 Die Autofähre fährt von *Gersau* aus immer zur vollen Stunde nach *Beckenried*. Unterwegs haben wir Bedenken, dass wir die nächste Fähre noch rechtzeitig erreichen. Da wir sie nicht knapp verpassen und eine volle Stunde am Anleger warten möchten, erhöhen wir unser Tempo. Ratzfatz sind wir an der Fähre und merken, dass wir die letzten Kilometer nicht hätten hetzen müssen. Wir waren anscheinend näher an der Fähre, als wir dachten und mussten sogar noch ein paar Minuten auf deren Eintreffen warten.
 
-Auf der Fähre haben wir es uns dann auf dem Oberdeck gemütlich gemacht. Die rund zwanzigminütige Überfahrt kostet für eine Erwachsene Person inklusive Velo genau CHF 10.--. Seit diesem Jahr kann man auch mit Twint bezahlen. Das probieren wir natürlich aus und wenig überraschend funktioniert das tadellos. Früher musste man immer bar bezahlen, da ging dann die Suche nach Kleingeld los. Aber das ist jetzt Geschichte und wir geniessen stattdessen die Fahrt auf der Fähre und den Blick auf die Berge vom See aus. Das ist immer wieder eine ungewohnte, aber sehr schöne Perspektive.
+Auf der Fähre haben wir es uns dann auf dem Oberdeck gemütlich gemacht. Die rund zwanzigminütige Überfahrt kostet für eine Erwachsene Person inklusive Velo genau CHF 10.--. Seit diesem Jahr kann man auch mit [Twint](https://www.twint.ch/) bezahlen. Das probieren wir natürlich aus und wenig überraschend funktioniert das tadellos. Früher musste man immer bar bezahlen, da ging dann die Suche nach Kleingeld los. Aber das ist jetzt Geschichte und wir geniessen stattdessen die Fahrt auf der Fähre und den Blick auf die Berge vom See aus. Das ist immer wieder eine ungewohnte, aber sehr schöne Perspektive.
 
 ![Mit der Fähre über den See](/images/blog/2022-05-15_005.jpg)
 
