@@ -1,7 +1,7 @@
 ---
 title: "Rund um den Vierwaldstättersee"
 date: 2022-05-15
-draft: true
+draft: false
 ---
 
 Wir haben Glück, denn heute ist Sonntag und wie es sich für einen Sonntag gehört, scheint die Sonne! "Wir" bedeutet, dass ich heute nicht alleine unterwegs bin, sondern von drei Freunden begleitet werde: Tina, Gunnar und Daniel. Am Anfang der Velo-Saison treffen wir uns fast schon traditionell zu einer eher gemütlichen, aber durchaus auch fordernden Runde um den Vierwaldstättersee. Leider nicht um den ganzen See herum, denn von *Bauen* rauf nach *Seelisberg* führt keine Strasse, sondern einzig ein steiler Wanderweg mit 850 steinernen Treppenstufen! Da möchte kein Velofahrer seinen Drahtesel schultern. Also gibt es bei uns immer die "kleine" Umrundung, bei der wir von *Gersau* nach *Beckenried* mit der Autofähre abkürzen. Das sind dann immer noch etwa 60 Kilometer, also auch mit der Abkürzung ist das keine kleine Spazierfahrt mehr.

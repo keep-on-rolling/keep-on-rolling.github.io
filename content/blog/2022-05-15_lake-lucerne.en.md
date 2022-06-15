@@ -1,7 +1,7 @@
 ---
 title: "Around Lake Lucerne"
 date: 2022-05-15
-draft: true
+draft: false
 ---
 
 We are lucky, because today is Sunday and as it should be for a Sunday, the sun is shining! "We" means that I am not alone on the road today, but accompanied by three friends: Tina, Gunnar, and Daniel. At the beginning of the bike season, we meet almost traditionally for a rather leisurely, but quite challenging round around Lake Lucerne. Unfortunately not around the whole lake, because from *Bauen* up to *Seelisberg* there is no road, but only a steep hiking trail with 850 stone steps! No cyclist wants to shoulder his bike there. So we always have the "small" round trip, where we take the car ferry from *Gersau* to *Beckenried*. That's still about 60 kilometers, so even with the shortcut, it's no longer a short ride.
