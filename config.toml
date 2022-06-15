@@ -43,7 +43,7 @@ url = "https://www.strava.com/athletes/38507092"
 [[params.socialIcons]]
 icon = "fab fa-youtube"
 title = "YouTube"
-url = "https://www.youtube.com/channel/UCX-QNpByELuz_7ReG8Z44zA"
+url = "https://www.youtube.com/channel/UCVPiWk3TEQtNnuRFmYnafyw"
 
 [[params.socialIcons]]
 icon = "fas fa-person"
