@@ -1,0 +1,16 @@
+<!doctype html>
+
+<html lang=en-us>
+    <head>
+        <title>Keep On Rolling</title>
+        <meta name=robots content="noindex">
+        <meta charset=utf-8>
+        <meta http-equiv=refresh content="1; url=/en/">
+    </head>
+    <script>
+        var language = (navigator.userLanguage || navigator.language);
+        var languageCode = (language !== undefined && language !== null && language.length >= 2) ? language.substr(0, 2) : "en";
+        var url = window.location.href + (languageCode === "de" ? "de" : "en") + "/";
+        window.location.replace(url);
+    </script>
+</html>
