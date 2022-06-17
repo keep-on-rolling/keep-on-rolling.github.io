@@ -1,1 +1,0 @@
-document.addEventListener("DOMContentLoaded",e=>{window.location.pathname.startsWith("/de/")&&(document.body.innerHTML=document.body.innerHTML.replace(/Posts in this Series/g,"Beiträge in dieser Serie"))})
