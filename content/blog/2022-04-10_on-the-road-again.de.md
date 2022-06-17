@@ -35,5 +35,9 @@ Zurück in Bellinzona habe ich dann schon meinen Allerwertesten gespürt. Die St
 
 Jetzt bin ich wieder Zuhause und sowohl die neue Schaltung als auch die neuen Bremsen haben wunderbar funktioniert. Nach ein paar Wochen Sofazeit und dann ein paar Wochen technischer Zwangspause hat meine Fitness die letzten Monate arg geleidet. So faul wie diesen Winter war ich schon viele Jahre nicht mehr. Da war die doch entspannte SlowUp-Runde als kleiner Starter genau das Richtige. Den Spass und die Freude von heute werde ich in den nächsten Tagen und Wochen mit vielen weiteren Fahrten replizieren. Das muss ich auch, denn für Mai habe ich mit Freunden eine Städtereise nach Venedig geplant. Dabei fahren wir zu zweit mit dem Velo, die Damen nehmen den Zug. Da muss ich über den Gotthardpass. Ganz oben rüber, ohne Tunnel oder Bahn. Bis dahin muss es dann wieder etwas besser aussehen mit meiner Fitness. Also los, raus und auf die Strasse, in den Dreck, Spass haben und gut gelaunt die Gegend unsicher machen...
 
+![Die Strecke in der Übersicht](/images/blog/2022-04-10_komoot.png)
+
+Mehr Details zur Strecke gibt es wie immer bei [Komoot](https://www.komoot.de/tour/732355803/zoom) und bei [Strava](https://www.strava.com/activities/6960182567).
+
 Dein  
 Marcus

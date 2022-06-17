@@ -35,5 +35,9 @@ Back in Bellinzona I then already felt my butt. The route was only 50 km short, 
 
 Now I'm back home and both the new shifting and the new brakes have worked wonderfully. After a few weeks of sofa time and then a few weeks of forced technical break, my fitness has suffered badly the last few months. I have not been as lazy as this winter for many years. So the relaxed SlowUp round as a small starter was just the right thing. I will replicate the fun and joy of today with many more rides in the coming days and weeks. I have to, because for May I have planned a city trip to Venice with friends. Thereby we go two by bike, the ladies take the train. I have to cross the Gotthard Pass. Right at the top, without tunnel or train. Until then it must look a little better with my fitness. So go, out and on the road, in the dirt, have fun and make the area unsafe in a good mood ...
 
+![Overview of the route](/images/blog/2022-04-10_komoot.png)
+
+More details about the route can be found as always at [Komoot](https://www.komoot.com/tour/732355803/zoom) and at [Strava](https://www.strava.com/activities/6960182567).
+
 Yours  
 Marcus
