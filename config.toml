@@ -133,3 +133,6 @@ url = "/de/imprint/"
 
 [permalinks]
 blog = '/:year/:month/:day/:slug/'
+
+[taxonomies]
+series = "series"
