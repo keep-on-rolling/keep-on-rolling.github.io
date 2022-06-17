@@ -40,7 +40,7 @@ A great round as a start to the bike season, which we look forward to every year
 
 ![Overview of the route](/images/blog/2022-05-15_komoot.png)
 
-More details about the route and some photos can be found as always at [Komoot](https://www.komoot.de/tour/770828365/zoom) and at [Strava](https://www.strava.com/activities/7147501619).
+More details about the route and some photos can be found as always at [Komoot](https://www.komoot.com/tour/770828365/zoom) and at [Strava](https://www.strava.com/activities/7147501619).
 
 Yours  
 Marcus
