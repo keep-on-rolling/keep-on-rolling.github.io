@@ -1,1 +1,0 @@
-window.location.pathname.startsWith("/de/")&&document.addEventListener("DOMContentLoaded",e=>{Array.from(document.getElementsByTagName("h3")).forEach(function(e){e.innerHTML==="Posts in this Series"&&(e.innerHTML="Beiträge in dieser Serie")})})
