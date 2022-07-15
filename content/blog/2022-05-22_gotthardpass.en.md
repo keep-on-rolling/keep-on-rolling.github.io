@@ -77,5 +77,5 @@ Then I arrive. Finally. After 14 hours. Seven of those hours on the move. Over 1
 
 More details about the route and some photos can be found as always at [Komoot](https://www.komoot.com/tour/779250065/zoom) and at [Strava](https://www.strava.com/activities/7186924202).
 
-Dein  
+Yours  
 Marcus
