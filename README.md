@@ -5,16 +5,16 @@
 This is the command I use to start the Hugo development server on my development machine:
 
 ```bash
-hugo server --port 13130 --watch --gc --buildDrafts --navigateToChanged
+hugo server --watch --gc --buildDrafts --buildFuture --navigateToChanged
 ```
 
 | Parameter | Effect |
 | --- | --- |
 | `server` | A high performance webserver |
-| `--port 13130` | port on which the server will listen (on Windows, the default port 1313 is often blocked by Hyper-V)
-| `--watchw` | watch filesystem for changes and recreate as needed |
+| `--watch` | watch filesystem for changes and recreate as needed |
 | `--gc` | enable to run some cleanup tasks (remove unused cache files) after the build |
 | `--buildDrafts` | include content marked as draft |
+| `--buildFuture` | include content with publishdate in the future |
 | `--navigateToChanged` | navigate to changed content file on live browser reload |
 
 ## Clone

@@ -1,2 +1,2 @@
 @echo off
-hugo server -D -F --watch --gc --navigateToChanged
+hugo server --watch --gc --buildDrafts --buildFuture --navigateToChanged
